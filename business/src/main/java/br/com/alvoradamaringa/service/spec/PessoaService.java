@@ -1,6 +1,5 @@
 package br.com.alvoradamaringa.service.spec;
 
-
 import java.util.List;
 
 import javax.ejb.Local;
